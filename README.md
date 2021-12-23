@@ -2,6 +2,9 @@
 - 👀 I’m interested in ... finding a job in UX Design
 - 🌱 My skills include ... HTML, CSS, JavaScript, SQL, Adobe Suite (Photoshop, Illustrator, XD)
 - 📫 How to reach me ... elifields22@gmail.com
+- - name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
 
 <!---
 elizabethfields/elizabethfields is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
